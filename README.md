@@ -35,7 +35,7 @@ With **9+ years of experience** in software development, I specialize in **PHP, 
 
 ## 📊 GitHub Stats  
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitskharade&show_icons=true&theme=radical)   
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitskharade&layout=compact&theme=radical)  
 ---
 
 ## 📫 Let's Connect!  
